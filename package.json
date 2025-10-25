@@ -16,7 +16,7 @@
     "license": "ISC",
     "dependencies": {
         "cypress": "^9.5.0",
-        "express": "^4.17.1",
+        "express": "^4.21.2",
         "index.js": "0.0.3",
         "jsdom": "^16.5.3",
         "supertest": "^6.1.3"
